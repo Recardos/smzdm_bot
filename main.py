@@ -48,7 +48,7 @@ class SMZDM_Bot(object):
 
 
 
-
+ 
 if __name__ == '__main__':
     sb = SMZDM_Bot()
     # sb.load_cookie_str(config.TEST_COOKIE)
